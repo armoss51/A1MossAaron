@@ -1,2 +1,55 @@
 ﻿body {
+    background-color: slategrey;
+    color: #F2DFCD;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.header {
+    background-image: url('../Images/F1Blur.jpg');
+    height: 20em;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6em;
+    padding-top: .5em;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.btn {
+    background-color: #2e8886;
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.paragraph {
+    padding: 3em 7em;
+    background-color: #012D2E;
+}
+
+img {
+    height: 22em;
+    background-position: center;
+    background-size: cover;
+}
+
+.subheading {
+    text-align: center;
+}
+
+.sub {
+    margin: 1em 5em;
 }
